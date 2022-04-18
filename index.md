@@ -37,4 +37,7 @@
 ### 8. 学术会议
 
 ## To colaborators
-Go to [To colaborators](https://github.com/ShiangHu/lab/blob/main/_pages/newpage.md)
+---
+https://github.com/ShiangHu/lab/blob/1b35cf3720729e910316c9142fd75ea906c8d02c/_pages/newpage.md: /
+title: To colaborators
+---

@@ -1,7 +1,5 @@
 ---
-title: new page
-layout: template
-filename: newpage.md
+title: {{newpage}}
 --- 
 
 ## To colaborators

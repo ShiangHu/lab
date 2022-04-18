@@ -1,5 +1,7 @@
 # Introductory Guide to ShiangHu's Lab
 
+![2](lab/images/2.jpg)
+
 ## To graduate students
 
 ### 1. 注册邮箱
@@ -21,11 +23,12 @@
 - Baidu Schlar
 
 ### 4. 招生说明
-
-[导师介绍](https://cs.ahu.edu.cn/2021/1221/c11202a277616/page.htm)
+- [导师介绍](https://cs.ahu.edu.cn/2021/1221/c11202a277616/page.htm)
 
 ### 5. 组会周报
-每周二晚上7点，联系人：zhihao zhihaozhang98@outlook.com
+- 每周二晚上7点，联系人:*zhihaozhang98@outlook.com*
+- 办公室：理工楼D511
+- 会议室：人文楼B106
 
 ### 6. 研究生入门必读
 - 学习使用EEGLAB，Brainstorm

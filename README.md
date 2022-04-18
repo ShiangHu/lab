@@ -1,1 +1,3 @@
-# lab
+# lab profiles
+
+## To graduate students

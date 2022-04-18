@@ -1,6 +1,6 @@
-# Introductory Guide to ShiangHu's Lab
+# Introductory Guide to Shiang's Lab
 
-![1](/lab/images/2.jpg)
+![niagra](/lab/images/niagra.jpg)
 
 ## To graduate students
 
@@ -32,7 +32,7 @@
 
 ### 6. 研究生入门必读
 - 学习使用EEGLAB，Brainstorm
-- 
+- 关注脑体智能微信公众号
 
 ### 7. 学术期刊
 - 计算机类
@@ -43,4 +43,3 @@
 ### 8. 学术会议
 
 ## To colaborators
-[To colaborators](https://github.com/ShiangHu/lab/blob/20729eb3d7135d9faec47d7abc13c4f45d686876/_pages/newpage.md)

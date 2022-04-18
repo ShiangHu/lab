@@ -22,7 +22,10 @@
 
 ### 4. 招生说明
 
+[导师介绍](https://cs.ahu.edu.cn/2021/1221/c11202a277616/page.htm)
+
 ### 5. 组会周报
+每周二晚上7点，联系人：zhihao zhihaozhang98@outlook.com
 
 ### 6. 研究生入门必读
 - 学习使用EEGLAB，Brainstorm

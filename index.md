@@ -1,6 +1,6 @@
 # Introductory Guide to ShiangHu's Lab
 
-![2](lab/images/2.jpg)
+![1](lab/images/1.jpg)
 
 ## To graduate students
 

@@ -1,5 +1,0 @@
----
-title: {{newpage}}
---- 
-
-## To colaborators

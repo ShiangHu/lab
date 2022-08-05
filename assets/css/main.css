@@ -179,7 +179,7 @@ input, select, textarea {
 
 	hr {
 		border: 0;
-		border-top: solid 1px #eee;
+		border-top: solid 1px #111;
 	}
 
 	blockquote {
@@ -2033,7 +2033,7 @@ input, select, textarea {
 
 			#nav ul li {
 				float: left;
-				line-height: 4.5em;
+				line-height: 9em;
 				padding-left: 0.5em;
 			}
 
